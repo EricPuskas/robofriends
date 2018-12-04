@@ -20,7 +20,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "http://EricPuskas.github.io/robofriends",
+  "homepage": "https://ericpuskas.github.io/robofriends",
   "browserslist": [
     ">0.2%",
     "not dead",
